@@ -18,7 +18,8 @@
     "react-scripts": "3.0.1",
     "rxjs": "^6.5.2",
     "styled-components": "^4.2.0",
-    "typescript": "^3.4.5"
+    "typescript": "^3.4.5",
+    "gh-pages":"3.2.3"
   },
   "scripts": {
     "start": "cross-env PORT=3001 react-app-rewired start",
